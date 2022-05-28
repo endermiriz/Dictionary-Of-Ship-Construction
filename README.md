@@ -1,0 +1,2 @@
+# Dictionary-Of-Ship-Construction
+The Virtual Dictionary is an online dictionary that we created as the result of a school lesson plan for our Shipbuilding and Ship Repair class. Through the website, people can read the articles themselves, as it files the uploaded terms into the virtual dictionary. This project provides transportation services in Turkish and English to meet the needs of people who wish to improve their knowledge about shipbuilding.
